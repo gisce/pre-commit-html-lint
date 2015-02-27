@@ -1,0 +1,5 @@
+-   id: html-lint
+    name: html-lint
+    entry: html_lint.py
+    language: python
+    files: \.html$
